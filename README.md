@@ -1,7 +1,6 @@
-What is a Cached Repository Pattern?
-It is a Repository Pattern with caching which makes the application super fast. We will implement a cached repository pattern without any changes to our existing repository pattern.
+Welcome to sharePointCafe.NET
 
-In other words, this is a combination of the Repository Pattern and Cache mechanism to enhance the application performance.
+Blog topics: C#, .NET, ASP.NET, Azure and the latest in Microsoft technologies.
 
 Read the blog :
-https://www.sharepointcafe.net/2024/04/cached-repository-pattern-in-c-sharp.html
+https://www.sharepointcafe.net/
