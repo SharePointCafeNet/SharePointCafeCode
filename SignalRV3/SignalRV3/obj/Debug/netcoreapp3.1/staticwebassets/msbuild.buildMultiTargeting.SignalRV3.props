@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\SignalRV3.props" />
+</Project>
